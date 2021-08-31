@@ -1,3 +1,7 @@
 第一章 ： Git的由来
 
 git是xxx
+
+在目录下使用命令：
+git init
+初始化git 仓库
