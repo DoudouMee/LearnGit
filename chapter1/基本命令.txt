@@ -11,6 +11,7 @@ git commit -m		   //提交缓存区文件到本地仓库（当前分支）
 git status             //查看工作区状态
 
 git diff               //查看工作区和暂存区的变动
+                       //可接文件名
 
 git log                //查看提交历史记录
         --pretty=oneline
@@ -20,4 +21,3 @@ git reset --hard       //版本回退，接HEAD^^ 或 commit id
 
 git reflog             //命令历史记录， 可以查看 commit id（重返未来）
 
- 

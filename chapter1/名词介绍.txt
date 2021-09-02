@@ -1,0 +1,5 @@
+工作区(working directory)----->当前文件目录
+
+版本库(Repository)------------>.git文件夹，包含stage和指向master分支的HEAD
+
+暂存区(stage/index)----------->git add后的文件保存在暂存区
